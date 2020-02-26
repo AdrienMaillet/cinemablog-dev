@@ -1,4 +1,4 @@
-# Prismic Nuxt.js Example Blog
+# Prismic Nuxt.js Cinema Blog
 
 > [Nuxt.js](https://nuxtjs.org) example blog project with content managed in [Prismic](https://prismic.io)
 
